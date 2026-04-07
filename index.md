@@ -1,14 +1,14 @@
 ---
 layout: default
-title: André Marinha
+title: Marcel Artioli
 ---
 
-## Welcome!
+## Bem-vindo! Benvenuto! Welcome! Wilkommen!
 
-I am a PhD student in Political Science and Sociology at the [Scuola Normale Superiore](https://www.sns.it/it/persona/andre-queiroz-candido-de-carvalho-marinha). My ongoing doctoral research focuses on social cleavages and political behaviour in Southern Europe. On a parallel endeavour, I have also been working on topics of political representation and constituency service in Sub-Saharan Africa as part of the project [HOME - How Members of Parliament in Africa Represent Their Constituencies](https://project-home.pt/).
+I am a PhD Researcher in Transnational Governance at [Scuola Normale Superiore and Scuola Superiore Sant'Anna](https://www.sns.it/en/persona/marcel-artioli), Florence. With over a decade of experience in agrarian and rural development, I served as State Coordinator for Brazil’s National Land Credit Program (PNCF) at the State of São Paulo and as an analyst for the São Paulo Land Institute (ITESP). My academic expertise in International Political Economy and environmental policy is supported by a master’s in international relations from the Graduate Program in International Relations San Tiago Dantas (Unesp, Unicamp, PUC-SP), Brazil and bachelor degree in International Relations from São Paulo State University (Unesp). 
 
-My research interests are concerned with the interplay between inequality, culture, and politics. In the context of my doctoral research, I am interested in examining how social inequalities come to shape political attitudes, preferences, and behaviour. The underlying assumption is that attitudes and behaviour cannot be understood as automatic reflections of material conditions. Instead, the relevance of social inequalities lies in how they are mediated by symbolic boundaries and processes of political activation that shape political attitudes, preferences, and behaviour. In particular, I seek to understand when and how structural divisions become politically meaningful, and how they are interpreted, mobilised, or instrumentalised by political actors.
+My PhD research investigates the roles of state and non-state actors in steering environmental policies in Brazil. The study explore the dynamics of transnational climate change governance, examining the actions of various actors and their partnerships in addressing climate change and other environmental issues. My research interests are international political economy, global environmental and climate politics, transnational climate change governance, and Brazilian environmental policies. 
 
-I hold an MSc in Sociology from ISCTE – University Institute of Lisbon, a Postgraduate Diploma in Social Research Methods from the Institute of Social Sciences (ICS), University of Lisbon, and a BA in Political Science and International Relations from NOVA University of Lisbon. In 2023, I was a Visiting Research Fellow at the Department of Portuguese and Brazilian Studies at Brown University.
+I was a fellow at the Managing Global Governance (MGG) Academy 2022 at the German Institute of Development and Sustainability (IDOS) in Bonn, Germany and a researcher at the Observatório de Regionalismo (ODR) (2016-2019), and at the Center for International Studies and Analysis (NEAI), São Paulo State University. I am a member of the European Consortium for Political Research (ECPR). In 2025, I was a Visiting Guest PhD Researcher at the Environmental Governance Department at the German Institute of Development and Sustainability (IDOS).
 
-If any of this aligns with your interests or you'd like to connect, feel free to reach out at [andre.marinha@sns.it](mailto:andre.marinha@sns.it)
+If this resonates, I’d love to chat. You can reach me at [marcel.artioli@sns.it](mailto:marcel.artioli@sns.it)
