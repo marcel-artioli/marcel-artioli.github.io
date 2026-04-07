@@ -4,5 +4,8 @@ layout: default
 
 # Teaching
 
-**Research Methods and Techniques** (Fall term, 2022/2023) | Invited Assistant Professor
-  - [BA in Political Science and International Relations](https://www.fcsh.unl.pt/cursos/licenciatura_em_ciencia_politica_e_relacoes_internacionais/), School of Social Sciences and Humanities, NOVA University of Lisbon
+**Global Climate Governance: EU and the rest of the world.** (Winter term, February 2026) | Guest Lecturer 
+  - [Undergraduate Course](https://villalebalze.georgetown.edu), Georgetown University, Villa le Balze, Fiesole, Italy
+
+**International Financial Economy** (August 2017) | Teaching Assistant
+- [BA in Economics] (https://www.pucsp.br/), Department of Economics, Pontifical Catholic University of São Paulo (PUC-SP), São Paulo, Brazil
