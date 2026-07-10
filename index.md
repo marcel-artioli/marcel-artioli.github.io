@@ -5,7 +5,7 @@ title: Marcel Artioli
 
 ## Welcome! Bem-vindo! Benvenuto! Wilkommen!
 
-I am a PhD Researcher in Transnational Governance at [*Scuola Normale Superiore and Scuola Superiore Sant'Anna*](https://www.sns.it/en/persona/marcel-artioli) in Flo9rence. My research integrates a decade of practitioner experience in agrarian and rural development with academic expertise in International Political Economy and environmental policy. Previously, I served as State Coordinator for Brazil’s National Land Credit Program (PNCF) and as an analyst for the São Paulo Land Institute (ITESP).
+I am a PhD Researcher in Transnational Governance at [*Scuola Normale Superiore and Scuola Superiore Sant'Anna*](https://www.sns.it/en/persona/marcel-artioli) in Florence. My research integrates a decade of practitioner experience in agrarian and rural development with academic expertise in International Political Economy and environmental policy. Previously, I served as State Coordinator for Brazil’s National Land Credit Program (PNCF) and as an analyst for the São Paulo Land Institute (ITESP).
 
 My doctoral research examines the roles of state and non-state actors in steering Brazilian environmental policies and the broader dynamics of transnational climate change governance. My research interests include political ecology, critical political economy, and global environmental politics. My work is supervised by Professors [*Luigi Pellizzoni*](https://www.sns.it/en/persona/luigi-pellizzoni) and [*Mario Pianta*](https://www.sns.it/en/persona/mario-pianta). I hold a Master’s in International Relations from the San Tiago Dantas program (UNESP/UNICAMP/PUC-SP) and a Bachelor’s from São Paulo State University (UNESP).
 
