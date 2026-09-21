@@ -9,8 +9,8 @@ I am a PhD Researcher in Transnational Governance at [*Scuola Normale Superiore 
 
 My doctoral research examines the roles of state and non-state actors in steering Brazilian environmental policies and the broader dynamics of transnational climate change governance. My research interests include political ecology, critical political economy, and global environmental politics. My work is supervised by Professors [*Luigi Pellizzoni*](https://www.sns.it/en/persona/luigi-pellizzoni) and [*Mario Pianta*](https://www.sns.it/en/persona/mario-pianta). I hold a Master’s in International Relations from the San Tiago Dantas program (UNESP/UNICAMP/PUC-SP) and a Bachelor’s from São Paulo State University (UNESP).
 
-Recently, I have expanded my international profile through the German Institute of Development and Sustainability (IDOS), serving as a Managing Global Governance Fellow (2022) and a Visiting Guest PhD Researcher (2025).
+Recently, I have expanded my international profile through the German Institute of Development and Sustainability (IDOS), serving as a Managing Global Governance Fellow (2022) and a Visiting Guest PhD Researcher (2025). I was also a Visiting PhD researcher at the Institute for Political Science at the University of Münster in Germany (2026). 
 
-*I’m excited to share that I will be joining the Institute for Political Science at the University of Münster as a Visiting PhD Researcher for the next six months!* I’m looking forward to collaborating with colleagues and advancing my research in this vibrant academic environment
+*I’m delighted to share that I’ll be joining the Institute of Social and Political Studies (IESP) at the State University of Rio de Janeiro as a Visiting PhD Researcher for a one-month stay, from mid-October to mid-November of 2026"* I look forward to exchanging ideas with colleagues, building new collaborations, and advancing my research in such a vibrant academic community.
 
 If this resonates, I’d love to chat. You can reach me at [marcel.artioli@sns.it](mailto:marcel.artioli@sns.it)
