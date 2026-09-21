@@ -22,4 +22,5 @@ Conference on International Relations, Session S26 “Geopolitics, Capitalism an
 - **Brazil’s Environmental Foreign Policy in the G20 Summit: Constraints and Contradictions**. Working paper presented at the 18th Pan-European Conference on International Relations, European International Studies Association (EISA), University of Bologna, 25-29 August 2025.
 
 ### Book Chapters
+- **Transnational Climate Change Governance and the Global South: State, Capital and Nature in Brazil**. In: Luigi Pellizzoni, Emanuele Leonardi and Vivana Asara. (Ed.). \textit{Handbook of Critical Environmental Politics}. 2 ed. Cheltenham, UK: Edward Elgar Publishing, 2027. [**Under revision**]. 
 - **Fiscal federalism, currency and banking of the poorest for sustainable and inclusive development: a research agenda for India and Brazil** Joint with Carlos Eduardo Carvalho and João Paulo N. Gabriel. In Karin Costa Vazquez.(Org.). [*Brazil-India relations: beyond the 70 years*. 1 ed. Brasilia: Fundação Alexandre Gusmão, 2019, v. 1, p. 57-71.](https://funag.gov.br/biblioteca-nova/produto/loc_pdf/1015/1/brazil-india_relations:_beyond_the_70_years)
