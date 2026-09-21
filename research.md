@@ -13,6 +13,11 @@ layout: default
 
 ### Working Papers, Presentations and Op-Ed Articles
 
+- **The Environmental Power Bloc: a Conceptual Framework**. Working paper presented at the ECPR General Conference 2026, ection ”Geoeco-
+nomics and Economic Statecraft Along Clean Energy Supply Chains”, Jagiellonian University, Krakow, Poland, 10 September 2026.
+- **Brazil’s Environmental Foreign Policy in the COP30: the limits of overstretching**. Working paper presented at the ECPR General Conference 2026, Section ”Climate Governance in Turbulent Times: Ambition, Implementation and Contestation”, Jagiellonian University, Krakow, Poland, 09 September 2026
+- **Brazil’s Environmental Foreign Policy in the COP30: the limits of overstretching**. Working paper presented at the 19th EISA Pan-European
+Conference on International Relations, Session S26 “Geopolitics, Capitalism and Techno-Industrial competition: Contested Elite Strategies in a Fracturing World Order” ISCTE University, Lisbon, Portugal, 03 September 2026.
 - **Brazil’s Environmental Foreign Policy in the COP30: the limits of overstretching**. Working paper presented at EELISA’s Network Workshop "Sustainability in the Age of Polycrisis: Prospects, Contradictions, and Futures", Florence, Italy, 24 March 2026.
 - **Exploring 'Forever': Assessing the viability of the new Tropical Forest Forever Facility** Joint with Nathalia Dreyer and Jean Carlo Rodríguez-de-Francisco. [The Current Column - The German Institute for Development and Sustainability(IDOS)](https://www.idos-research.de/en/the-current-column/article/exploring-forever-assessing-the-viability-of-the-new-tropical-forest-forever-facility/) 
 - **Brazil’s Environmental Foreign Policy in the G20 Summit: Constraints and Contradictions**. Working paper presented at the 18th Pan-European Conference on International Relations, European International Studies Association (EISA), University of Bologna, 25-29 August 2025.
