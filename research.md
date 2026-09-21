@@ -13,8 +13,7 @@ layout: default
 
 ### Working Papers, Presentations and Op-Ed Articles
 
-- **The Environmental Power Bloc: a Conceptual Framework**. Working paper presented at the ECPR General Conference 2026, ection ”Geoeco-
-nomics and Economic Statecraft Along Clean Energy Supply Chains”, Jagiellonian University, Krakow, Poland, 10 September 2026.
+- **The Environmental Power Bloc: a Conceptual Framework**. Working paper presented at the ECPR General Conference 2026, Section ”Geoeconomics and Economic Statecraft Along Clean Energy Supply Chains”, Jagiellonian University, Krakow, Poland, 10 September 2026.
 - **Brazil’s Environmental Foreign Policy in the COP30: the limits of overstretching**. Working paper presented at the ECPR General Conference 2026, Section ”Climate Governance in Turbulent Times: Ambition, Implementation and Contestation”, Jagiellonian University, Krakow, Poland, 09 September 2026
 - **Brazil’s Environmental Foreign Policy in the COP30: the limits of overstretching**. Working paper presented at the 19th EISA Pan-European
 Conference on International Relations, Session S26 “Geopolitics, Capitalism and Techno-Industrial competition: Contested Elite Strategies in a Fracturing World Order” ISCTE University, Lisbon, Portugal, 03 September 2026.
